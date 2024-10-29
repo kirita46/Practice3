@@ -1,0 +1,14 @@
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/bin/Debug/net8.0/Practice3
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/bin/Debug/net8.0/Practice3.deps.json
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/bin/Debug/net8.0/Practice3.runtimeconfig.json
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/bin/Debug/net8.0/Practice3.dll
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/bin/Debug/net8.0/Practice3.pdb
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.AssemblyInfoInputs.cache
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.AssemblyInfo.cs
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.csproj.CoreCompileInputs.cache
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.dll
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/refint/Practice3.dll
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.pdb
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/Practice3.genruntimeconfig.cache
+/Users/dmitrijstarcenko/RiderProjects/Practice3/Practice3/obj/Debug/net8.0/ref/Practice3.dll
